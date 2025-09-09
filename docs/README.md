@@ -4,9 +4,9 @@
 A project for "Analizar Orient. Tecnicas" at SENAC NH.
 
 ## Documentation
-- [Overview](/overview.md): Project details.
-- [Installation](/Installation.md): Setup guide.
-- [Usage](/usage.md): How to use.
+- [Overview](docs/overview.md): Project details.
+- [Installation](docs/Installation.md): Setup guide.
+- [Usage](docs/usage.md): How to use.
 
 ## Folders
 - `base_trab/`: Sketches and configs.
@@ -18,4 +18,4 @@ A project for "Analizar Orient. Tecnicas" at SENAC NH.
 - UnoArduSim V2.9.2.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](docs/LICENSE) file for details.
