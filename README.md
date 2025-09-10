@@ -1,7 +1,7 @@
 # Arduino Full Adder Simulator
 
 ## About
-A project for "Analizar Orient. Tecnicas" at SENAC NH.
+A project for "Analizar Orientações Tecnicas" at SENAC NH.
 
 ## Documentation
 - [Overview](docs/overview.md): Project details.
